@@ -8,7 +8,7 @@
 </div>
 
 ## 🧩 About
-Personal repository for daily coding practice and problem-solving from LeetCode and other platforms.
+Personal repository for daily coding practice and problem-solving.
 
 ## 📂 Structure
 Organized by problem types.
