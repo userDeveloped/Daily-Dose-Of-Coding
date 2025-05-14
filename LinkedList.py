@@ -28,6 +28,4 @@ class LinkedList:
 llist = LinkedList()
 llist.append("John Doe")
 llist.append("Jane Smith")
-
-
 llist.print_list()
