@@ -8,8 +8,6 @@ def sigmoid_derivative(a):
     """Derivative of sigmoid (using activation value)"""
     return a * (1 - a)
 
-# GENERIC FORWARD AND BACKWARD FUNCTIONS
-
 def forward(input_value, weight, bias):
     """Generic forward pass through a layer"""
     pre_activation = weight * input_value + bias
