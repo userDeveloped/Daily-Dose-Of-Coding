@@ -1,0 +1,15 @@
+
+1) Intuition
+<!-- Describe the first thoughts on how to solve this problem. -->
+
+2)Approach
+<!-- Describe the approach to solving the problem. -->
+
+3) Complexity
+
+Time complexity:
+<!-- Add time complexity here, e.g. $O(n)$ -->
+Space complexity:
+<!-- Add space complexity here, e.g. $O(n)$ -->
+
+4) Code
